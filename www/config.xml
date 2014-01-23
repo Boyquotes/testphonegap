@@ -10,8 +10,8 @@
     <feature name="http://api.phonegap.com/1.0/device" />
 
 <gap:plugin name="com.phonegap.plugins.facebookconnect">
-    <param name="APP_ID" value="248401118648195" />
-    <param name="APP_NAME" value="Applix" />
+   <param name="APP_ID" value="607217946010713" />
+   <param name="APP_NAME" value="BF iframe" />
 </gap:plugin>
 
     <preference name="permissions" value="none" />
